@@ -17,5 +17,6 @@ public class NewBean {
 	public void test(){
 		System.out.println(myInterface.getName());
 		System.out.println(testValue);
+System.out.println("sravan");
 	}
 }
